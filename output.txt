@@ -1,0 +1,10 @@
+BubbleSort took 0.10227 miscroseconds.
+The list is correctly sorted.
+InsertionSort took 0.00364048 miscroseconds.
+The list is correctly sorted.
+QuickSort took 0.00068982 miscroseconds.
+The list is correctly sorted.
+MergeSort took 0.00409768 miscroseconds.
+The list is correctly sorted.
+ProxmapSort took 0.000822886 miscroseconds.
+The list is correctly sorted.
